@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20240320-1031-Experimental"
+	Name="UJ-2020M00105"
+	Generator="ctest-3.29.0-rc2"
+	CompilerName="C:/msys64/ucrt64/bin/g++.exe"
+	CompilerVersion="13.2.0"
+	OSName="Windows"
+	Hostname="UJ-2020M00105"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="12"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="9353"
+	TotalPhysicalMemory="8073"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2194"
+	>
+	<Testing>
+		<StartDateTime>Mar 20 11:39 K[NON-UTF-8-BYTE-0xF6]z[NON-UTF-8-BYTE-0xE9]p-eur[NON-UTF-8-BYTE-0xF3]pai t[NON-UTF-8-BYTE-0xE9]li id[NON-UTF-8-BYTE-0xF5]</StartDateTime>
+		<StartTestTime>1710931197</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 20 11:39 K[NON-UTF-8-BYTE-0xF6]z[NON-UTF-8-BYTE-0xE9]p-eur[NON-UTF-8-BYTE-0xF3]pai t[NON-UTF-8-BYTE-0xE9]li id[NON-UTF-8-BYTE-0xF5]</EndDateTime>
+		<EndTestTime>1710931197</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

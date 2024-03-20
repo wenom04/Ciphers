@@ -16,7 +16,7 @@
 #include "ciphers.h"
 #include "memtrace.h"
 
-#define ELKESZULT 0
+#define ELKESZULT 1
 
 /* ELKESZULT makró:
     = 5: Caesar titkosítás tesztjei

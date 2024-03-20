@@ -40,12 +40,20 @@ public:
 };
 
 //Osztályok, amiket meg kell csinálni a leírások és az osztálydiagram alapján
-class CaesarCipher {
-
+class CaesarCipher : public Cipher{
+    int shift;
+public:
+    CaesarCipher(int shift) : shift(shift) {};
+    std::string encode(const std::string& message);
+    std::string decode(const std::string& ciphertext);
+    Cipher* clone() const;
 };
 
 class MyCipher {
-
+public:
+    //std::string encode(const std::string& message);
+    //std::string decode(const std::string& ciphertext);
+    //Cipher* clone() const;
 };
 
 class CipherQueue {

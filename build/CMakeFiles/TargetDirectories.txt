@@ -1,0 +1,5 @@
+C:/Users/Felhasznalo/Desktop/Prog2/Szorgalmi/Ciphers/build/CMakeFiles/cipher.dir
+C:/Users/Felhasznalo/Desktop/Prog2/Szorgalmi/Ciphers/build/CMakeFiles/package.dir
+C:/Users/Felhasznalo/Desktop/Prog2/Szorgalmi/Ciphers/build/CMakeFiles/package_source.dir
+C:/Users/Felhasznalo/Desktop/Prog2/Szorgalmi/Ciphers/build/CMakeFiles/edit_cache.dir
+C:/Users/Felhasznalo/Desktop/Prog2/Szorgalmi/Ciphers/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Felhasznalo/Desktop/Prog2/Szorgalmi/Ciphers/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -DMEMTRACE -o CMakeFiles\\cipher.dir\\test.cpp.obj -c C:\\Users\\Felhasznalo\\Desktop\\Prog2\\Szorgalmi\\Ciphers\\test.cpp",
+  "file": "C:/Users/Felhasznalo/Desktop/Prog2/Szorgalmi/Ciphers/test.cpp",
+  "output": "CMakeFiles/cipher.dir/test.cpp.obj"
+},
+{
+  "directory": "C:/Users/Felhasznalo/Desktop/Prog2/Szorgalmi/Ciphers/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -DMEMTRACE -o CMakeFiles\\cipher.dir\\ciphers.cpp.obj -c C:\\Users\\Felhasznalo\\Desktop\\Prog2\\Szorgalmi\\Ciphers\\ciphers.cpp",
+  "file": "C:/Users/Felhasznalo/Desktop/Prog2/Szorgalmi/Ciphers/ciphers.cpp",
+  "output": "CMakeFiles/cipher.dir/ciphers.cpp.obj"
+},
+{
+  "directory": "C:/Users/Felhasznalo/Desktop/Prog2/Szorgalmi/Ciphers/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -DMEMTRACE -o CMakeFiles\\cipher.dir\\memtrace.cpp.obj -c C:\\Users\\Felhasznalo\\Desktop\\Prog2\\Szorgalmi\\Ciphers\\memtrace.cpp",
+  "file": "C:/Users/Felhasznalo/Desktop/Prog2/Szorgalmi/Ciphers/memtrace.cpp",
+  "output": "CMakeFiles/cipher.dir/memtrace.cpp.obj"
+}
+]
